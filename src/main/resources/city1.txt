@@ -1,0 +1,245 @@
+@Budapest:Hungary*9849000+HUF
+@Nouakchott:Mauritania*3631775+MRO
+@Adamstown:Pitcairn Islands*56+NZD
+@Victoria:Seychelles*89949+SCR
+@Honiara:Solomon Islands*581344+SBD
+@Colombo:Sri Lanka*20675000+LKR
+@Panama City:Panama*3764166+PAB","USD
+@Hanoi:Vietnam*91812000+VND
+@San José:Costa Rica*4773130+CRC
+@Roseau:Dominica*71293+XCD
+@George Town:Cayman Islands*58238+KYD
+@Vienna:Austria*8602112+EUR
+@Georgetown:Guyana*746900+GYD
+@Jerusalem:Israel*8371600+ILS
+@Bratislava:Slovakia*5421349+EUR
+@Freetown:Sierra Leone*6453000+SLL
+@Flying Fish Cove:Christmas Island*2072+AUD
+@Asunción:Paraguay*7003406+PYG
+@Jakarta:Indonesia*255461700+IDR
+@Riyadh:Saudi Arabia*31521418+SAR
+@Nassau:The Bahamas*368390+BSD
+@Caracas:Venezuela*30620404+VEF
+@Rabat:Morocco*33337529+MAD
+@Djibouti:Djibouti*888000+DJF
+@Valletta:Malta*445426+EUR
+@Warsaw:Poland*38484000+PLN
+@Santo Domingo:Dominican Republic*10528000+DOP
+@New Delhi:India*1275840000+INR
+@Ramallah:Palestine*4682467+ILS
+@Helsinki:Finland*5485215+EUR
+@Lusaka:Zambia*15473905+ZMW
+@Conakry:Guinea*10628972+GNF
+@Bishkek:Kyrgyzstan*5944400+KGS
+@Saipan:Northern Mariana Islands*53883+USD
+@Port Vila:Vanuatu*264652+VUV
+@Cayenne:French Guiana*239648+EUR
+@Luxembourg:Luxembourg*562958+EUR
+@Juba:South Sudan*11892934+SSP
+@Vaduz:Liechtenstein*37370+CHF
+@Bangui:Central African Republic*4900000+XAF
+@Nairobi:Kenya*46050000+KES
+@Kinshasa:Democratic Republic of the Congo*77267000+CDF
+@Port-aux-Français:French Southern and Antarctic Lands*140+EUR
+@King Edward Point:South Georgia*30+GBP
+@Maseru:Lesotho*2135000+LSL","ZAR
+@Beijing:China*1371590000+CNY
+@West Island:Cocos (Keeling) Islands*550+AUD
+@Minsk:Belarus*9485300+BYR
+@Kingstown:Saint Vincent and the Grenadines*109991+XCD
+@Belgrade:Serbia*7114393+RSD
+@Malabo:Equatorial Guinea*1430000+XAF
+@Tegucigalpa:Honduras*8725111+HNL
+@Bamako:Mali*17600000+XOF
+@Port-au-Prince:Haiti*10911819+HTG","USD
+@Damascus:Syria*23339517+SYP
+@Mamoudzou:Mayotte*212645+EUR
+@Gustavia:Saint Barthélemy*9269+EUR
+@Ankara:Turkey*77695904+TRY
+@São Tomé:São Tomé and Príncipe*187356+STD
+@Singapore:Singapore*5469700+SGD
+@Saint-Denis:Réunion*840974+EUR
+@N'Djamena:Chad*14037000+XAF
+@Lisbon:Portugal*10374822+EUR
+@Gibraltar:Gibraltar*32734+GIP
+@Chișinău:Moldova*3555200+MDL
+@Yaoundé:Cameroon*23344000+XAF
+@Amsterdam:Netherlands*16916000+EUR
+@Thimphu:Bhutan*763920+BTN","INR
+@Port Moresby:Papua New Guinea*7398500+PGK
+@Marigot:Saint Martin*36979+EUR
+@Podgorica:Montenegro*621207+EUR
+@Kralendijk:Bonaire*17408+USD
+@Antananarivo:Madagascar*22434363+MGA
+@San Salvador:El Salvador*6401240+SVC","USD
+@Tashkent:Uzbekistan*31022500+UZS
+@Kingston:Norfolk Island*2302+AUD
+@Skopje:Republic of Macedonia*2058539+MKD
+@Doha:Qatar*2120129+QAR
+@Pristina:Republic of Kosovo*1733842+EUR
+@Moroni:Comoros*784745+KMF
+@Saint-Pierre:Saint Pierre and Miquelon*6069+EUR
+@Ottawa:Canada*35749600+CAD
+@Saint Helier:Jersey*99000+GBP
+@Astana:Kazakhstan*17541200+KZT
+@Amman:Jordan*6767600+JOD
+@Dushanbe:Tajikistan*8354000+TJS
+@Paramaribo:Suriname*534189+SRD
+@Dublin:Republic of Ireland*6378000+EUR
+@Naypyidaw:Myanmar*53897000+MMK
+@City of San Marino:San Marino*32831+EUR
+@Bucharest:Romania*19942642+RON
+@Pyongyang:North Korea*25155000+KPW
+@Brazzaville:Republic of the Congo*4620000+XAF
+@Saint John's:Antigua and Barbuda*86295+XCD
+@Belmopan:Belize*368310+BZD
+@Accra:Ghana*27043093+GHS
+@Lomé:Togo*7305000+XOF
+@Beirut:Lebanon*4104000+LBP
+@Athens:Greece*10846979+EUR
+@Taipei:Taiwan*23461708+TWD
+@Copenhagen:Denmark*5678348+DKK
+@Tokyo:Japan*126865000+JPY
+@Kuwait City:Kuwait*3268431+KWD
+@Suva:Fiji*859178+FJD
+@Mexico City:Mexico*121740000+MXN
+@Jamestown:Saint Helena*4255+SHP
+@Sarajevo:Bosnia and Herzegovina*3791622+BAM
+@Canberra:Australia*23868800+AUD
+@Ljubljana:Slovenia*2067683+EUR
+@Charlotte Amalie:Virgin Islands (U.S.)*114743+USD
+@Santiago:Chile*18006407+CLF","CLP
+@Bogotá:Colombia*48266600+COP
+@Prague:Czech Republic*10537818+CZK
+@Stanley:Falkland Islands*3000+FKP
+@Riga:Latvia*1980700+EUR
+@Basse-Terre:Guadeloupe*403750+EUR
+@Fort-de-France:Martinique*381326+EUR
+@Maputo:Mozambique*25727911+MZN
+@Tórshavn:Faroe Islands*48846+DKK
+@Majuro:Marshall Islands*56086+USD
+@Praia:Cape Verde*524833+CVE
+@Windhoek:Namibia*2280700+NAD","ZAR
+@Manama:Bahrain*1359800+BHD
+@Ulan Bator:Mongolia*3031099+MNT
+@Algiers:Algeria*39500000+DZD
+@Philipsburg:Sint Maarten*37429+ANG
+@Yamoussoukro:Ivory Coast*22671331+XOF
+@Bern:Switzerland*8256000+CHE","CHF","CHW
+@Kingston:Jamaica*2717991+JMD
+@Tirana:Albania*2893005+ALL
+@Mariehamn:Åland Islands*28875+EUR
+@Cairo:Egypt*89335600+EGP
+@Port Louis:Mauritius*1261208+MUR
+@Abu Dhabi:United Arab Emirates*9157000+AED
+@Berlin:Germany*81083600+EUR
+@South Tarawa:Kiribati*106461+AUD
+@Hagåtña:Guam*159358+USD
+@Bridgetown:Barbados*285000+BBD
+@City of Victoria:Hong Kong*7298600+HKD
+@Lilongwe:Malawi*16310431+MWK
+@Madrid:Spain*46439864+EUR
+@Ouagadougou:Burkina Faso*18450494+XOF
+@Kathmandu:Nepal*28037904+NPR
+@Guatemala City:Guatemala*16176133+GTQ
+@Oslo:Norway*5176998+NOK
+@Apia:Samoa*187820+WST
+@Kiev:Ukraine*42836922+UAH
+@Nouméa:New Caledonia*268767+XPF
+@Kabul:Afghanistan*26023100+AFN
+@Nuku'alofa:Tonga*103252+TOP
+@El Aaiún:Western Sahara*510713+MAD","DZD","MRO
+@Mata-Utu:Wallis and Futuna*13135+XPF
+@Manila:Philippines*101920000+PHP
+@Reykjavík:Iceland*330610+ISK
+@Willemstad:Curaçao*154843+ANG
+@Libreville:Gabon*1725000+XAF
+@Longyearbyen:Svalbard and Jan Mayen*2562+NOK
+@Buenos Aires:Argentina*43131966+ARS
+@Papeetē:French Polynesia*268270+XPF
+@Port of Spain:Trinidad and Tobago*1340557+TTD
+@Kuala Lumpur:Malaysia*30678800+MYR
+@St. George's:Grenada*103328+XCD
+@Douglas:Isle of Man*84497+GBP
+@Avarua:Cook Islands*14974+NZD
+@Havana:Cuba*11238317+CUC","CUP
+@Addis Ababa:Ethiopia*90076012+ETB
+@Bujumbura:Burundi*9823827+BIF
+@Vientiane:Laos*6802000+LAK
+@Khartoum:Sudan*38435252+SDG
+@Yerevan:Armenia*3006800+AMD
+@Tallinn:Estonia*1313271+EUR
+@Ngerulmud:Palau*20901+USD
+@Dodoma:Tanzania*53470000+TZS
+@Bandar Seri Begawan:Brunei*393372+BND
+@St. Peter Port:Guernsey*65150+GBP
+@Fakaofo:Tokelau*1411+NZD
+@Stockholm:Sweden*9793172+SEK
+@Banjul:The Gambia*1882450+GMD
+@Funafuti:Tuvalu*10640+AUD
+@Zagreb:Croatia*4246800+HRK
+@Andorra la Vella:Andorra*76949+EUR
+@Niamey:Niger*19899000+XOF
+@Phnom Penh:Cambodia*15405157+KHR
+@Bissau:Guinea-Bissau*1844000+XOF
+@Rome:Holy See*451+EUR
+@Tripoli:Libya*6278000+LYD
+@Brasília:Brazil*204772000+BRL
+@Kampala:Uganda*34856813+UGX
+@Dhaka:Bangladesh*158875000+BDT
+@Ashgabat:Turkmenistan*4751120+TMT
+@Lobamba:Swaziland*1119375+SZL
+@Sana'a:Yemen*25956000+YER
+@Hamilton:Bermuda*64237+BMD
+@Wellington:New Zealand*4609440+NZD
+@Malé:Maldives*341256+MVR
+@Castries:Saint Lucia*185000+XCD
+@Baghdad:Iraq*36004552+IQD
+@Muscat:Oman*4185440+OMR
+@Oranjestad:Aruba*107394+AWG
+@Sucre:Bolivia*11410651+BOB","BOV
+@Baku:Azerbaijan*9636300+AZN
+@Seoul:South Korea*51448183+KRW
+@Bangkok:Thailand*65104000+THB
+@Montevideo:Uruguay*3415866+UYI","UYU
+@Monrovia:Liberia*4503000+LRD
+@Quito:Ecuador*16027500+USD
+@Yaren:Nauru*10084+AUD
+@Managua:Nicaragua*6198154+NIO
+@Plymouth:Montserrat*4922+XCD
+@Gaborone:Botswana*2070984+BWP
+@The Valley:Anguilla*13452+XCD
+@Paris:France*66186000+EUR
+@Tbilisi:Georgia*3729500+GEL
+@Brussels:Belgium*11248330+EUR
+@Washington, D.C.:United States*321645000+USD","USN","USS
+@Dili:East Timor*1212107+USD
+@Dakar:Senegal*13508715+XOF
+@Islamabad:Pakistan*190668000+PKR
+@Pretoria:South Africa*54956900+ZAR
+@Pago Pago:American Samoa*55519+USD
+@Diego Garcia:British Indian Ocean Territory*3000+USD
+@San Juan:Puerto Rico*3548397+USD
+@Tehran:Iran*78572500+IRR
+@Vilnius:Lithuania*2900787+EUR
+@Abuja:Nigeria*182202000+NGN
+@Kigali:Rwanda*11262564+RWF
+@Nuuk:Greenland*56114+DKK
+@Lima:Peru*31151643+PEN
+@Basseterre:Saint Kitts and Nevis*56000+XCD
+@Monaco:Monaco*37800+EUR
+@Mogadishu:Somalia*10787000+SOS
+@Asmara:Eritrea*5228000+ERN
+@Cockburn Town:Turks and Caicos Islands*31458+USD
+@Porto-Novo:Benin*10315244+XOF
+@Palikir:Federated States of Micronesia*101351+USD
+@Nicosia:Cyprus*858000+EUR
+@Tunis:Tunisia*10982754+TND
+@Luanda:Angola*24383301+AOA
+@Alofi:Niue*1613+NZD
+@Harare:Zimbabwe*13061239+USD
+@Moscow:Russia*146556330+RUB
+@Sofia:Bulgaria*7202198+BGN
+@Road Town:Virgin Islands (British)*28054+USD
+@London:United Kingdom*64800000+GBP
+@Rome:Italy*60753794+EUR
